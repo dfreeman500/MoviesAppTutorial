@@ -1,4 +1,8 @@
-﻿* Installed WebPack
+﻿
+
+
+
+* Installed WebPack
 * Unable to install Web Essentials 2019 or Vue.js Pack 2019 -- error: This extension is not installable on any currently installed products.
 * Attempted Visual Studio 2019 Community
 
